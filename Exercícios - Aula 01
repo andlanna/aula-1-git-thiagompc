@@ -1,0 +1,14 @@
+1.
+a) Comando para iniciar um repositório.
+b) Clonar um repositório remoto já existente.
+c) Comando para listar as branchs e ver em qual você está operando.
+d) Criar uma nova branch ou mudar de branch.
+e) Buscar alterações mais recentes na branch atual armazenadas no repositório remoto.
+f) Buscar alterações no repositório remoto e e incorporá-las no repositório local.
+g) Adiciona todas as mudanças executadas nos arquivos do diretório.
+h) Empacota todas as mudanças feitas no repositório em um commit, e adiciona o commit ao log.
+i) Transfere os commits do repositório local para o repositório remoto.
+
+2.
+O git pull sobrescreve a versão atual do seu diretório com as mudanças
+realizadas no repositório remoto, o git fetch apenas lista e exibe essas mudanças.
